@@ -1,1 +1,12 @@
-{"students": [], "logs": {}}
+{
+  "students": [
+    {
+      "id": "abc12345",
+      "name": "Ali Khan",
+      "parent_phone": "923001234567",
+      "fee_amount": "3000",
+      "fee_due_day": 28
+    }
+  ],
+  "logs": {}
+}
