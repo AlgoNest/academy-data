@@ -1,13 +1,6 @@
 {
   "students": [
     {
-      "id": "ca14d61d",
-      "name": "Ahmad Hassan",
-      "parent_phone": "923701972789",
-      "fee_amount": "12345",
-      "fee_due_day": 12
-    },
-    {
       "id": "f7753c2d",
       "name": "M shahzaib",
       "parent_phone": "923245738821",
